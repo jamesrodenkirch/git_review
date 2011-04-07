@@ -14,5 +14,6 @@ Usage
 -------
 1. cd your/git/repository
 2. /path/to/review.sh [ review|merge ]
-3. enter merge request number
+3. select the remote location to pull from
+4. enter merge request number
 
